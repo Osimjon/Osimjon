@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osimjon&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Osimjon" /></div>
 
 ### ☎️ Connect with me:
-
-<img alt="delet-dis | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/ojon_boboev)
 
