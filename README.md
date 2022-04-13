@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=tokyonight&hide_border=true&area=true) -->
 </div> 
 
-<div align="center"><img height="auto" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osimjon&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Osimjon" /></div>
+<div align="center"><img height="auto" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osimjon&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Osimjon" /></div>
 
 ### ☎️ Connect with me:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/ojon_boboev)
