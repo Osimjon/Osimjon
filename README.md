@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ### ☎️ Connect with me:
 
-[<img alt="delet-dis | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />][website]
+<img alt="delet-dis | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />
 
