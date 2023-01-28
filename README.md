@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 
 
 
+# GitHub statistic📈:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Osimjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osimjon)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <div align="center"><img height="auto" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osimjon&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Osimjon" /></div>
 
 ### ☎️ Connect with me:
