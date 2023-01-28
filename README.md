@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 # GitHub statistic📈:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osimjon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Osimjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osimjon)](https://github.com/anuraghazra/github-readme-stats)
 
