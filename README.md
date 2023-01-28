@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <div align="auto"><img height="" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osimjon&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Osimjon" /></div>
 
 [![Osimjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osimjon)](https://github.com/anuraghazra/github-readme-stats)
+<div align="auto"><img height="auto" width="30%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Osimjon&layout=compact)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Osimjon)](https://github.com/anuraghazra/github-readme-stats)" alt="Osimjon" /></div>
+
 
 ### Laguages:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](C/) 
