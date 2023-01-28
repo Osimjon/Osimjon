@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#154c79&height=180&section=header&text=OsimjonS&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&duration=12000&lines=Hello%2C+I+am+osimjon;Aka+Don't know;Skills%3A+C%2FC%2B%2B%2C%20Python%2C%20Java%2C%20C%23%2C;I+plan+write+something+soon...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&duration=6000&lines=Hello%2C+I+am+Alex;Aka+Cppshizoid;Skills%3A+C%2FC%2B%2B%2C%20Python%2C%20Java%2C%20C%23%2C;I+plan+write+something+soon...)](https://git.io/typing-svg)
 
 
 
