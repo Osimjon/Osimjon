@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](C++/)
 [![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](Java/) 
 
-<!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Python/)-->
 
 
 <div align="center"><img height="auto" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osimjon&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Osimjon" /></div>
