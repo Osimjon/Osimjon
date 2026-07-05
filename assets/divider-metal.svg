@@ -1,0 +1,21 @@
+<svg viewBox="0 0 640 16" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider metal">
+  <defs>
+    <linearGradient id="b" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#c9a86a" stop-opacity="0"/>
+      <stop offset="38%"  stop-color="#c9a86a" stop-opacity="0.55"/>
+      <stop offset="50%"  stop-color="#f0ede6" stop-opacity="1"/>
+      <stop offset="62%"  stop-color="#c9a86a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#c9a86a" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blurB" x="-50%" y="-400%" width="200%" height="900%">
+      <feGaussianBlur stdDeviation="2.6"/>
+    </filter>
+    <filter id="glintBlur" x="-50%" y="-600%" width="200%" height="1300%">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+  </defs>
+  <rect x="0" y="5" width="640" height="6" fill="url(#b)" filter="url(#blurB)"/>
+  <rect x="0" y="7.5" width="640" height="1" fill="url(#b)"/>
+  <!-- холодная искра-блик строго по центру, поверх золота -->
+  <rect x="304" y="6.5" width="32" height="3" fill="#f5f3ee" opacity="0.9" filter="url(#glintBlur)"/>
+</svg>

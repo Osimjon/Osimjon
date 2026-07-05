@@ -1,0 +1,14 @@
+<svg viewBox="0 0 640 16" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider soft">
+  <defs>
+    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#c9a86a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d8bd85" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#c9a86a" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blurA" x="-50%" y="-400%" width="200%" height="900%">
+      <feGaussianBlur stdDeviation="2.6"/>
+    </filter>
+  </defs>
+  <rect x="0" y="5" width="640" height="6" fill="url(#a)" filter="url(#blurA)"/>
+  <rect x="0" y="7.5" width="640" height="1" fill="url(#a)"/>
+</svg>
