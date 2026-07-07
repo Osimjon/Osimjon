@@ -1,3 +1,5 @@
+
+<br>
 <div align="center">
   <img src="./assets/header.svg" width="1080" alt="Osimjon" />
 </div>
@@ -75,7 +77,7 @@ Backend engineer. Java / Spring, Flutter on the client side, PostgreSQL and Mong
     <img src="https://img.shields.io/badge/Email-0B0B0C?style=flat-square&logo=gmail&logoColor=B8A06A" alt="Email" /></a>   
   <a href="https://discord.com/users/yourhandle">
     <img src="https://img.shields.io/badge/Discord-0B0B0C?style=flat-square&logo=discord&logoColor=B8A06A" alt="Discord"  /></a>
-    
+    <br>
 </p>
 
 
