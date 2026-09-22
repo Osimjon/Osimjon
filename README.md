@@ -68,16 +68,13 @@ Backend engineer. Java / Spring, Flutter on the client side, PostgreSQL and Mong
 
 <p align="center">
   
-  <a href="https://t.me/yourhandle">
+  <a href="https://t.me/ojonboboev">
     <img  src="https://img.shields.io/badge/Telegram-0B0B0C?style=flat-square&logo=telegram&logoColor=B8A06A" alt="Telegram" /></a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/ojon_boboev">
     <img src="https://img.shields.io/badge/Instagram-0B0B0C?style=flat-square&logo=instagram&logoColor=B8A06A" alt="Instagram" /></a>  
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=flat-square&logo=linkedin&logoColor=B8A06A" alt="LinkedIn" /></a>
-  <a href="mailto:you@example.com">
+  <a href="osimdzhon-boboev-a6b8334b"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=flat-square&logo=linkedin&logoColor=B8A06A" alt="LinkedIn" /></a>
+  <a href="mailto:osimdzhonboboev@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B0B0C?style=flat-square&logo=gmail&logoColor=B8A06A" alt="Email" /></a>   
-  <a href="https://discord.com/users/yourhandle">
-    <img src="https://img.shields.io/badge/Discord-0B0B0C?style=flat-square&logo=discord&logoColor=B8A06A" alt="Discord"  /></a>
-    <br>
 </p>
 
 
