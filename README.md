@@ -13,7 +13,6 @@
  
 <div align="center">
 
-## Osimdzhon B.
 
 Backend engineer. Java / Spring, PostgreSQL underneath.
 
