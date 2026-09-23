@@ -15,15 +15,13 @@
 
 ## Osimdzhon B.
 
-Backend engineer. Java / Spring, Flutter on the client side, PostgreSQL and MongoDB underneath.
+Backend engineer. Java / Spring, PostgreSQL underneath.
 
 </div>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0B0B0C?style=flat-square&logo=openjdk&logoColor=B8A06A" alt="Java" width="100"/>
   <img src="https://img.shields.io/badge/Spring-0B0B0C?style=flat-square&logo=spring&logoColor=B8A06A" alt="Spring" width="120" />
-  <img src="https://img.shields.io/badge/Flutter-0B0B0C?style=flat-square&logo=flutter&logoColor=B8A06A" alt="Flutter" width="125"/>
-  <img src="https://img.shields.io/badge/MongoDB-0B0B0C?style=flat-square&logo=mongodb&logoColor=B8A06A" alt="MongoDB" width="155"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0B0B0C?style=flat-square&logo=postgresql&logoColor=B8A06A" alt="PostgreSQL" width="172" /> 
 </p>
 
@@ -42,7 +40,7 @@ Backend engineer. Java / Spring, Flutter on the client side, PostgreSQL and Mong
 <br>
 
 <p align="center">
-<strong>Background</strong> — Higher College of Informatics, Novosibirsk State University.
+<strong>Background</strong> — Higher College of Informatics, Novosibirsk State Technical University.
 </p>
 
 <br><br>
