@@ -34,7 +34,10 @@ Backend engineer. Java / Spring, PostgreSQL underneath.
 <br><br>
 
 <p align="center">
-<strong>Focus</strong> — building a full-stack project end to end, architecture before features.
+<strong>Built and shipped ORVO, a full-stack community platform, 
+to the App Store — backend architecture, data model, auth 
+and moderation designed and built by me; Flutter client 
+delivered with AI-assisted development.
 </p>
 
 <br>
