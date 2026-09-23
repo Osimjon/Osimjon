@@ -26,12 +26,6 @@ Backend engineer. Java / Spring, PostgreSQL underneath.
 
 <br>
 
-<div align="center">
-  <img src="./assets/divider-metal.svg" width="1080" alt="" />
-</div>
-
-<br><br>
-
 <p align="center">
 <strong>Built and shipped ORVO, a full-stack community platform, 
 to the App Store — backend architecture, data model, auth 
@@ -64,7 +58,7 @@ delivered with AI-assisted development.
 
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   
