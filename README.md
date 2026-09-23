@@ -68,8 +68,6 @@ Backend engineer. Java / Spring, PostgreSQL underneath.
   
   <a href="https://t.me/ojonboboev">
     <img  src="https://img.shields.io/badge/Telegram-0B0B0C?style=flat-square&logo=telegram&logoColor=B8A06A" alt="Telegram" /></a>
-  <a href="https://instagram.com/ojon_boboev">
-    <img src="https://img.shields.io/badge/Instagram-0B0B0C?style=flat-square&logo=instagram&logoColor=B8A06A" alt="Instagram" /></a>  
   <a href="https://www.linkedin.com/in/osimdzhon-boboev-a6b8334b"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=flat-square&logo=linkedin&logoColor=B8A06A" alt="LinkedIn" /></a>
   <a href="mailto:osimdzhonboboev@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B0B0C?style=flat-square&logo=gmail&logoColor=B8A06A" alt="Email" /></a>   
